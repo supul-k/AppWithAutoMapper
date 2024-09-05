@@ -22,5 +22,5 @@ This project demonstrates how to effectively use AutoMapper in an ASP.NET Core a
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/automapper-demo.git
+   git clone https://github.com/your-username/automapper-demo.git](https://github.com/supul-k/AppWithAutoMapper.git
    cd automapper-demo
